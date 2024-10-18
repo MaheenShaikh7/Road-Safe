@@ -1,0 +1,9 @@
+body {
+    scroll-snap-type: y proximity;
+    overflow-y: scroll;
+  }
+  section {
+    scroll-snap-align: start;
+    height: 100vh; /* adjust based on your design needs */
+  }
+  
